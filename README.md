@@ -1,4 +1,3 @@
-![](https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/a4b33886128681.5d909dad47ded.jpg)
 <h1 align="center">Hi 👋, I'm Luis Vasquez</h1>
 <h3 align="center">A frontend developer passionate about building delightful and inclusive interfaces.</h3>
 
